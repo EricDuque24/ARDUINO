@@ -21,7 +21,7 @@ int length = 21;
 char notes[] = "egC egC egCDCb abCabg";
 int beats[]={3, 2, 2, 1, 3, 2, 2, 1, 2, 1, 2, 2, 1, 3, 1, 2, 1, 1, 1, 1, 3, 1};
 
-//Melody 3
+Melody 3
 //int length = 11;
 //char notes[] = "aaafcHafcHa" ;
 //int beats[] = { 1, 1, 1, 2, 1, 1 ,2 , 1, 2, 1;
